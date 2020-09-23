@@ -1,0 +1,23 @@
+body{
+    display: grid;
+    gap: 3px;
+}
+
+nav {
+    background-color: green;
+}
+
+section.hero {
+    background-color:  red;
+}
+
+section.projects{
+    background-color: blue
+}
+footer {
+    background-color: yellow;
+}
+
+li {
+    list-style: none;
+}
